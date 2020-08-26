@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://labskiryatkoUsername:labskiryatkoPassword@cluster0.g4deo.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "01954d42153543b8ee21",
+  "githubSecret": "09a92d91c90b7e7799b5e2ef102ca1ca9e57d283"
+}
